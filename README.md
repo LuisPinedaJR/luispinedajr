@@ -8,7 +8,7 @@
 I'm a FrontEnd Developer  👨‍💻, Currently in Lambda School and almost done 👨‍🎓
 
 - 🔭 I’m currently working on taking rest  
-- 🌱 I’m currently learning about Data Science
+- 🌱 I’m currently learning about Data Science and UI Design.
 - 💬 Ask me about anything and everything; I like to learn new things. 
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
