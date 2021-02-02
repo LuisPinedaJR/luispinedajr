@@ -5,7 +5,7 @@
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Luis <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luispinedajr" alt="raghav-byte" /> </p>
 
-I'm a FrontEnd Developer  👨‍💻, Currently in Lambda School and almost done 👨‍🎓
+I'm a FrontEnd Developer  👨‍💻, Currently in Lambda School and graduating soon 👨‍🎓
 
 - 🔭 I’m currently working on taking rest  
 - 🌱 I’m currently learning about Data Science and UI Design.
