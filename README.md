@@ -1,15 +1,37 @@
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+<!-- <a href="https://twitter.com/divsoup">
+  <img align="left" alt="luis' Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a> -->
+<a href="https://www.linkedin.com/in/luisfpineda1/">
+  <img align="left" alt="Luis' Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<!-- <a href="https://github.com/darshan-jain">
+  <img align="left" alt="Luis' Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+ <a href="https://t.me/darshanjain01">
+  <img align="left" alt="Luis' Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://medium.com/@darshanjain_5991">
+  <img align="left" alt="Luis' Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a> -->
+
+<br />
+<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
+
+### I am Luis Pineda
+- A Full-Stack Developer & Design enthusiast.
+- Currently a Front-end Developer. 
+- Currently working freelance projects and learning Blockchain.
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 
+⭐️ [Luis Pineda](https://github.com/luispinedajr)
 
-<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , My name is Luis <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luispinedajr" alt="raghav-byte" /> </p>
 
-I'm a Front End Developer  👨‍💻 
 
-- 🔭 I’m currently working on taking rest  
-- 🌱 I’m currently learning about Data Science and UI Design.
-- 💬 Ask me about anything and everything; I like to learn new things. 
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
 
 
 
