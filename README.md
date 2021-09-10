@@ -6,13 +6,13 @@
 <a href="https://www.linkedin.com/in/luisfpineda1/">
   <img align="left" alt="Luis' Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<!-- <a href="https://github.com/darshan-jain">
+<!-- <a href="https://github.com/luispinedajr">
   <img align="left" alt="Luis' Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
- <a href="https://t.me/darshanjain01">
+ <a href="https://t.me/luispinedajr">
   <img align="left" alt="Luis' Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://medium.com/@darshanjain_5991">
+<a href="https://medium.com/@luispinedajr">
   <img align="left" alt="Luis' Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a> -->
 
