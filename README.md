@@ -26,7 +26,7 @@
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 
-⭐️  [Luis Pineda](https://github.com/luispinedajr)
+⭐️  [Luis Pineda](https:luispineda.dev)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luispinedajr" alt="raghav-byte" /> </p>
