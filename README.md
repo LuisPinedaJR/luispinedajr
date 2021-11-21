@@ -21,9 +21,10 @@
 
 ### I am Luis Pineda
 - A Full-Stack Developer & Design enthusiast.
-- Currently a Front-end Developer. 
-- Currently working freelance projects and learning Blockchain.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- Currently a software engineer. 
+- Currently working vue. flutter projects and learning Blockchain.
+- I love to learn and contribute in any and every possible way. 
+ <!-- - I'm currently looking for opportunities. -->
 
 
 ⭐️  [Luis Pineda](https:luispineda.dev)
