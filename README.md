@@ -20,9 +20,8 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am Luis Pineda
-- A Full-Stack Developer & Design enthusiast.
-- Currently a software engineer. 
-- Currently working on Vue. Flutter projects and learning Blockchain.
+- A Full-Stack Developer & Design enthusiast. 
+- Currently working on IOS, Android mobile application and RAG AI/LLM system.
 - I love to learn and contribute in any and every possible way. 
  <!-- - I'm currently looking for opportunities. -->
 
