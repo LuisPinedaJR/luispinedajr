@@ -17,7 +17,7 @@
 </a> -->
 
 <br />
-<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
+
 
 ### I am Luis Pineda
 - A Full-Stack Developer & Design enthusiast. 
